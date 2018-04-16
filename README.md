@@ -6,3 +6,5 @@ Use this website to calulate distance https://www.metric-conversions.org/length/
 each unit in unity should be considered 1 meter. 
 
 Though the ships themselves wont be using this meter thing it will be using the distance between planets and things with that.
+
+The distance should be around 41343393496012480m
